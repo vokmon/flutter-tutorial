@@ -1,0 +1,15 @@
+Code lab
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first#1
+
+Installation
+https://docs.flutter.dev/reference/flutter-cli
+
+Command line
+https://docs.flutter.dev/reference/flutter-cli
+
+
+flutter emulators
+flutter emulators --launch Pixel_XL_API_34
+flutter run
+flutter run -d chrome
+flutter devices
